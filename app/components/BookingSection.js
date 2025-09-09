@@ -173,7 +173,7 @@ export default function BookingSection() {
           {/* Subtitle */}
           <p className="text-lg sm:text-xl text-slate-600 leading-relaxed font-light max-w-2xl mx-auto">
             Book a 15-minute consultation to explore how we can bring your creative vision to life. 
-            Let's create something extraordinary together.
+            Let&apos;s create something extraordinary together.
           </p>
 
           {/* Benefits tags */}
@@ -214,7 +214,7 @@ export default function BookingSection() {
         {/* Bottom note */}
         <div className="text-center mt-12 max-w-md mx-auto">
           <p className="text-sm text-slate-500 font-light">
-            Can&apos;t find a suitable time? Feel free to{' '}
+            Can&apos;t find a suitable time? Feel free to
             <a href="mailto:your-email@example.com" className="text-slate-700 hover:text-slate-900 underline transition-colors duration-200">
               reach out directly
             </a>
