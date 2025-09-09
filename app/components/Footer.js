@@ -35,7 +35,7 @@ export default function Footer() {
                 </span>
               </h3>
               <p className="text-lg text-slate-300 mb-8 font-light leading-relaxed">
-                Let's collaborate and create something extraordinary together. 
+                Let&apos;s collaborate and create something extraordinary together. 
                 Every great design starts with a conversation.
               </p>
               <button 

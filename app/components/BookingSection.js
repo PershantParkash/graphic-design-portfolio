@@ -163,7 +163,7 @@ export default function BookingSection() {
           {/* Main heading */}
           <div className="space-y-4">
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-light tracking-tight text-slate-900 leading-tight">
-              <span className="block">Let's discuss your</span>
+              <span className="block">Let&apos;s discuss your</span>
               <span className="block font-medium bg-gradient-to-r from-slate-800 via-slate-700 to-slate-600 bg-clip-text text-transparent">
                 next project
               </span>
@@ -214,7 +214,7 @@ export default function BookingSection() {
         {/* Bottom note */}
         <div className="text-center mt-12 max-w-md mx-auto">
           <p className="text-sm text-slate-500 font-light">
-            Can't find a suitable time? Feel free to{' '}
+            Can&apos;t find a suitable time? Feel free to{' '}
             <a href="mailto:your-email@example.com" className="text-slate-700 hover:text-slate-900 underline transition-colors duration-200">
               reach out directly
             </a>

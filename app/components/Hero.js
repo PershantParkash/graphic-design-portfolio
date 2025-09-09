@@ -27,7 +27,7 @@ export default function Hero() {
 
           <div className="space-y-4">
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-light tracking-tight text-slate-900 leading-tight">
-              <span className="block">Hello, I'm a</span>
+              <span className="block">Hello, I&apos;m a</span>
               <span className="block font-medium bg-gradient-to-r from-slate-800 via-slate-700 to-slate-600 bg-clip-text text-transparent">
                 Graphic Designer
               </span>

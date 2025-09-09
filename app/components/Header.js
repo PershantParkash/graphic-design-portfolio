@@ -79,7 +79,7 @@ export default function Header() {
               onClick={() => scrollToSection('book-meeting')}
               className="hidden sm:inline-flex items-center gap-2 bg-slate-900 hover:bg-slate-800 text-white px-6 py-2.5 rounded-full font-medium transition-all duration-300 hover:shadow-lg hover:-translate-y-0.5"
             >
-              Let's Talk
+              Let&apos;s Talk
               <div className="w-1.5 h-1.5 bg-green-400 rounded-full animate-pulse"></div>
             </button>
 
@@ -125,7 +125,7 @@ export default function Header() {
                 onClick={() => scrollToSection('book-meeting')}
                 className="w-full inline-flex items-center justify-center gap-2 bg-slate-900 hover:bg-slate-800 text-white px-6 py-3 rounded-full font-medium transition-all duration-300"
               >
-                Let's Talk
+                Let&apos;s Talk
                 <div className="w-1.5 h-1.5 bg-green-400 rounded-full animate-pulse"></div>
               </button>
             </div>
