@@ -90,7 +90,7 @@ export default function Footer() {
                     href="mailto:hello@designer.com" 
                     className="block text-slate-300 hover:text-white transition-colors duration-300 font-light"
                   >
-                    hello@designer.com
+                    pershantparkash@gmail.com
                   </a>
                   <div className="flex gap-4">
                     <a 
@@ -140,9 +140,9 @@ export default function Footer() {
             <div className="flex items-center gap-4">
               <div className="flex items-center gap-3">
                 <div className="w-8 h-8 bg-gradient-to-br from-slate-200 to-slate-400 rounded-lg flex items-center justify-center">
-                  <span className="text-slate-800 font-bold text-sm">GD</span>
+                  <span className="text-slate-800 font-bold text-sm">PP</span>
                 </div>
-                <span className="text-lg font-medium text-white">Designer</span>
+                <span className="text-lg font-medium text-white">Pershant Parkash</span>
               </div>
               <div className="hidden sm:block w-px h-6 bg-slate-600"></div>
               <p className="text-sm text-slate-400 font-light">

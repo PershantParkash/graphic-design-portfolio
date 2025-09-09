@@ -40,10 +40,10 @@ export default function Header() {
               className="group flex items-center gap-3 transition-all duration-300"
             >
               <div className="w-8 h-8 bg-gradient-to-br from-slate-800 to-slate-600 rounded-lg flex items-center justify-center transform group-hover:scale-110 transition-transform duration-300">
-                <span className="text-white font-bold text-sm">GD</span>
+                <span className="text-white font-bold text-sm">PP</span>
               </div>
               <span className="text-lg font-medium text-slate-800 group-hover:text-slate-600 transition-colors duration-300">
-                Designer
+                Pershant Parkash
               </span>
             </button>
           </div>
